@@ -1,4 +1,4 @@
-# Google_Search_Masterlist_Identifier
+# Google Search Hate Speech Websites Identifier
 
 [Southern Poverty Law Center (SPLC)](https://www.splcenter.org) is an organization that monitors hate groups and other extremists throughout the U.S. and exposes their activities to law enforcement agencies, the media and the public.
 
