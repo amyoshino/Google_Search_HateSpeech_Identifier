@@ -21,3 +21,4 @@ The developed code get for each query in string format the top results in Google
 
 - You can also do multiple queries:
 ![ss_3](ss_3.png)
+ 
