@@ -2,7 +2,7 @@
 
 [Southern Poverty Law Center (SPLC)](https://www.splcenter.org) is an organization that monitors hate groups and other extremists throughout the U.S. and exposes their activities to law enforcement agencies, the media and the public.
 
-In this project in partnership with SPLC and DataKind we created a tool to automatically identify "blacklisted" websites per search query, the objective of the project was to measure how innocuous queries might lead to hate speech websites and reach more people.  
+In this project, developed in a DataKind data dive, in partnership with SPLC we created a tool to automatically identify "blacklisted" websites per search query, the objective of the project was to measure how innocuous queries might lead to hate speech websites and reach more people.  
 
 The developed code get for each query in string format the top results in Google Search, check if the results are in the Master List provided by Southern Poverty Law Center, and return the number of times they appear for each search.
 **Inputs**:
