@@ -16,7 +16,7 @@ The developed code get for each query in string format the top results in Google
 - Search on Google (innocuous query): **"are immigrants allowed to vote"**, and return the top n pages results
 ![ss_1](ss_1.png)
 
-- Output as Pandas DataFrame with the information if it is in Master List or not and the rank it was shown in Google Search.
+- Output as Pandas DataFrame with the information if it is in Dangerous Websites Master List or not and the rank it was shown in Google Search.
 ![ss_2](ss_2.png)
 
 - You can also do multiple queries at once:
