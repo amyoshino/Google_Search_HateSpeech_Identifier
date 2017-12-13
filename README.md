@@ -13,7 +13,7 @@ The developed code get for each query in string format the top results in Google
 - Table with all the results from queries, the rank they appear in the search and if it is in masterlist. (exported in .csv)
 
 ### Example
-- Search on Google: **"are immigrants allowed to vote"**, and return the top n pages results
+- Search on Google (innocuous query): **"are immigrants allowed to vote"**, and return the top n pages results
 ![ss_1](ss_1.png)
 
 - Output as Pandas DataFrame with the information if it is in Master List or not and the rank it was shown in Google Search.
